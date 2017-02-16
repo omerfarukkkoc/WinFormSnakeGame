@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MetroFramework-1.3.0.0</id>
+    <version>1.3.0.0</version>
+    <title>MetroFramework-1.3.0.0</title>
+    <authors>Sven Walter</authors>
+    <owners>Sven Walter</owners>
+    <projectUrl>http://thielj.github.io/MetroFramework/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add a fresh look to your .NET WinForms application with controls using the Modern 'Metro' UI theme of Windows 8.</description>
+    <summary>Add a fresh look to your .NET WinForms application with controls using the Modern 'Metro' UI theme of Windows 8.</summary>
+    <copyright>https://raw.githubusercontent.com/thielj/MetroFramework/master/LICENSE.md</copyright>
+    <language>en-US</language>
+    <tags>MetroFramework</tags>
+  </metadata>
+</package>
