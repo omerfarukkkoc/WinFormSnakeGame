@@ -1,1 +1,2 @@
-# c-WinFormSnakeGame
+# c#WinFormSnakeGame
+Yılan Oyunu
